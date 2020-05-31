@@ -1,0 +1,4 @@
+.idea/
+vendor/
+.phpunit.result.cache
+Reglas_del_juego.txt
